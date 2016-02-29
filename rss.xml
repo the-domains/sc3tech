@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SC3Tech]]></title>
+        <description><![CDATA[SC3Tech]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 20:44:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The "Internet of Things" hype overstates things and minimises inherent risks, as is not uncommon for media coverage of stories the writers don't understand: it does, however, suggest some possibilities.</p>]]></description>
+            <link>undefineda08f7afb-5d4b-4a9e-afdf-9f28de0c0ff8/index.html</link>
+            <guid isPermaLink="false">a08f7afb-5d4b-4a9e-afdf-9f28de0c0ff8</guid>
+            <pubDate>Mon, 29 Feb 2016 20:44:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

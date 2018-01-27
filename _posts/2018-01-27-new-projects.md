@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2018-01-27T23:10:25.811Z'
+dateModified: '2018-01-27T23:13:04.428Z'
 via: {}
 description: >-
   There are few opportunities for genuinely ‘greenfield’ (or even ‘brownfield’)
@@ -17,7 +17,7 @@ description: >-
 title: New Projects
 inFeed: false
 author: []
-datePublished: '2018-01-27T23:10:26.560Z'
+datePublished: '2018-01-27T23:13:05.643Z'
 sourcePath: _posts/2018-01-27-new-projects.md
 hasPage: true
 starred: true

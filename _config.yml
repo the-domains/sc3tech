@@ -38,9 +38,6 @@ navigation:
   - name: Lifecycle Management
     id: 89d5284c-79c1-477a-926e-593466859e0f
     type: content
-  - name: Contact
-    url: 'https://simplr.tibco.com/ui/form/#/!/r/21410'
-    type: external
 collections:
   - index:
       path: /

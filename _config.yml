@@ -1,13 +1,46 @@
-name: 'SC3 Technologies '
-analytics: {}
-purpose: []
+typography_spectrum: 0.4067623556305719
+content_rating:
+  adult: false
+color:
+  lightness: 0.9802866755862084
+  brandColors:
+    - '#FFFFFF'
+    - '#295AA5'
+    - '#000000'
+    - '#2E2E2E'
+    - '#949494'
+  saturation: 0.15094095157404053
+  brandStrength: 0.30866431635712266
+  rhythmicContrast: 0.46725128149641404
 github: true
-description: From Data to Change
+opengraph: {}
+layout_spectrum: 0.06016940656662135
+analytics: {}
 author: {}
+name: 'SC3 Technologies '
 cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Rail
+    id: b8713427-f4cc-4746-bce5-303317b519f0
+    type: content
+  - name: Vehicle Performance
+    id: 6a050218-5aa0-4819-bef8-6bf47c355b8c
+    type: content
+  - name: Signalling and Control
+    id: 264f034d-1a10-4043-864d-d2f2f0300eef
+    type: content
+  - name: Maintenance Optimisation
+    id: 985e284a-075b-4a1b-873e-c4a730156117
+    type: content
+  - name: Lifecycle Management
+    id: 89d5284c-79c1-477a-926e-593466859e0f
+    type: content
+  - name: Contact
+    url: 'https://simplr.tibco.com/ui/form/#/!/r/21410'
+    type: external
 collections:
   - index:
       path: /
@@ -20,6 +53,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Transport Analytics
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -29,52 +63,21 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/89e951214ea0db118ad0a725fd2a9066d50df274.jpg
     metadata:
+      datePublished: null
+      keywords: []
+      related: []
       author: []
       '@context': 'http://schema.org'
-      keywords: []
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://s3-us-west-2.amazonaws.com'
         name: .s3-us-west-2.amazonaws.com
         domain: s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
       description: ''
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - id: b8713427-f4cc-4746-bce5-303317b519f0
-    name: Rail
-    type: content
-  - id: 6a050218-5aa0-4819-bef8-6bf47c355b8c
-    name: Vehicle Performance
-    type: content
-  - id: 264f034d-1a10-4043-864d-d2f2f0300eef
-    name: Signalling and Control
-    type: content
-  - id: 985e284a-075b-4a1b-873e-c4a730156117
-    name: Maintenance Optimisation
-    type: content
-  - id: 89d5284c-79c1-477a-926e-593466859e0f
-    name: Lifecycle Management
-    type: content
-layout_spectrum: 0.06016940656662135
-color:
-  lightness: 0.9802866755862084
-  brandColors:
-    - '#FFFFFF'
-    - '#295AA5'
-    - '#000000'
-    - '#2E2E2E'
-    - '#949494'
-  saturation: 0.15094095157404053
-  brandStrength: 0.30866431635712266
-  rhythmicContrast: 0.46725128149641404
-content_rating:
-  adult: false
-typography_spectrum: 0.4067623556305719
-opengraph: {}
-title: Transport Analytics
+description: From Data to Change
+purpose: []

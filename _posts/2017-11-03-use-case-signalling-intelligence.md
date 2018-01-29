@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-29T22:23:30.665Z'
-dateModified: '2018-01-29T22:23:29.752Z'
+datePublished: '2018-01-29T22:26:50.417Z'
+dateModified: '2018-01-29T22:26:49.668Z'
 description: >-
   There are different signalling and control systems available on the market,
   and many come with proprietary software for analysis and decoding of the
@@ -36,4 +36,4 @@ Using other sensors, it's also possible to analyse performance in terms of passe
 
 While this example uses generated data, passenger movements - whether on and off vehicles, within buildings (such as bus stations or airports) or even within larger vehicles such as ferries - can be obtained from sensors or extracted from video coverage. 
 
-Whether with signalling data or video coverage, if archive data kept then it can be processed to extract patterns and trends. With signalling data, such trends can be used to facilitate preventative maintenance; with passenger flow information, that data can be used to help with timetable planning, with building design or refurbishment planning, and so on. Using cloud computing services, this processing can be done at a far lower cost than is typically possible using internal systems, and can even be done at quiet times to take advantage of dynamic pricing where that is offered.
+Whether with signalling data or video coverage, if archive data kept then it can be processed to extract patterns and trends. With signalling data, such trends can be used to facilitate preventative maintenance; with passenger flow information, that data can be used to help with timetable planning, with building design or refurbishment planning, and so on. Using cloud computing services, this processing can be done at a far lower cost than is typically possible using internal systems, and can even be done at quiet times to take advantage of dynamic pricing where that is offered: alternatively, a year of data can potentially be processed in hours, depending on the preferred price-performance balance.

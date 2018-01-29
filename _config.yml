@@ -26,7 +26,7 @@ navigation:
   - name: Rail
     id: b8713427-f4cc-4746-bce5-303317b519f0
     type: content
-  - name: Vehicle Performance
+  - name: System Performance
     id: 6a050218-5aa0-4819-bef8-6bf47c355b8c
     type: content
   - name: Signalling and Control

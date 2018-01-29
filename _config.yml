@@ -76,7 +76,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: From Data to Change
+description: ''
 purpose:
   - type: external
     url: 'http://sc3tech.ee/contact'

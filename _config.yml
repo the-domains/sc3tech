@@ -77,5 +77,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
-purpose: []
+purpose:
+  - type: external
+    url: 'http://sc3tech.ee/contact'
+    label: Contact
 url: 'https://sc3tech.co.uk'

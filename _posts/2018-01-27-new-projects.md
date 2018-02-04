@@ -1,7 +1,7 @@
 ---
 publisher: {}
-dateModified: '2018-01-27T23:13:04.428Z'
-via: {}
+datePublished: '2018-02-04T16:36:23.955Z'
+dateModified: '2018-02-04T16:35:57.868Z'
 description: >-
   There are few opportunities for genuinely ‘greenfield’ (or even ‘brownfield’)
   projects in transport, but when they arise it is clearly possible to implement
@@ -14,19 +14,19 @@ description: >-
   stages, and possibly adopted for long term use - removing the capital cost of
   data centre capacity for those processes, or at least providing a way for
   technologies and systems to be proven before any such investments are made.
-title: New Projects
+via: {}
+sourcePath: _posts/2018-01-27-new-projects.md
+title: 'New Projects:Embedding Analytics'
+hasPage: true
 inFeed: false
 author: []
-datePublished: '2018-01-27T23:13:05.643Z'
-sourcePath: _posts/2018-01-27-new-projects.md
-hasPage: true
 starred: true
 datePublishedOriginal: '2018-01-27T19:06:19.681Z'
 url: new-projects/index.html
 _type: Blurb
 
 ---
-# New Projects
+# New Projects:Embedding Analytics
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/caedd1f4-bdf8-4cb2-9730-41b348947a10.jpg)
 
 There are few opportunities for genuinely 'greenfield' (or even 'brownfield') projects in transport, but when they arise it is clearly possible to implement analytics and related features (such as sensors) during the initial phases. At the design phase, the desirability and feasibility of collecting selected parameters can be evaluated (and if necessary, research effort applied), during construction works sensors can be embedded, data collection can be specified in the procurement process for vehicles, and so on. In addition, approaches such as cloud computing can be used to reduce costs at early stages, and possibly adopted for long term use - removing the capital cost of data centre capacity for those processes, or at least providing a way for technologies and systems to be proven before any such investments are made.

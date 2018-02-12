@@ -79,6 +79,6 @@ content:
 description: ''
 purpose:
   - type: external
-    url: 'http://sc3tech.ee/drupal/contact/feedback'
+    url: 'http://sc3tech.ee/drupal/contactus'
     label: Contact
 url: 'https://sc3tech.co.uk'

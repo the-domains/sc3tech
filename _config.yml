@@ -42,9 +42,6 @@ navigation:
   - name: Freight Services
     id: 92b46b82-3968-40c5-a55b-879020e7d4a8
     type: content
-  - name: Service Vehicles
-    id: 5f54fc9f-8078-48a8-80d8-84d22ab172b5
-    type: content
 collections:
   - index:
       path: /

@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2018-04-29T21:06:24.446Z'
+dateModified: '2018-04-29T21:24:38.065Z'
 description: >-
   The often-overlooked but necessary part of a transport operation, the
   availability of service and maintenance vehicles is often critical. To
@@ -13,7 +13,7 @@ title: Service and Maintenance Vehicles
 hasPage: true
 inFeed: false
 author: []
-datePublished: '2018-04-29T21:09:19.894Z'
+datePublished: '2018-04-29T21:24:38.669Z'
 starred: false
 datePublishedOriginal: '2018-04-29T21:09:19.894Z'
 url: service-and-maintenance-vehicles/index.html

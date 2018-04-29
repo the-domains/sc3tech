@@ -18,6 +18,7 @@ layout_spectrum: 0.06016940656662135
 analytics: {}
 author: {}
 name: 'SC3 Technologies '
+url: 'https://sc3tech.co.uk'
 cta:
   bucket: null
   version: null
@@ -37,6 +38,9 @@ navigation:
     type: content
   - name: Lifecycle Management
     id: 89d5284c-79c1-477a-926e-593466859e0f
+    type: content
+  - name: Passenger Services
+    id: b5746606-9a62-4551-a8b2-235101c951bf
     type: content
 collections:
   - index:
@@ -81,4 +85,3 @@ purpose:
   - type: external
     url: 'http://sc3tech.ee/contactus'
     label: Contact
-url: 'https://sc3tech.co.uk'

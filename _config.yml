@@ -39,9 +39,6 @@ navigation:
   - name: Lifecycle Management
     id: 89d5284c-79c1-477a-926e-593466859e0f
     type: content
-  - name: Passenger Services
-    id: b5746606-9a62-4551-a8b2-235101c951bf
-    type: content
 collections:
   - index:
       path: /

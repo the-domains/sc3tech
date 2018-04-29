@@ -39,9 +39,6 @@ navigation:
   - name: Lifecycle Management
     id: 89d5284c-79c1-477a-926e-593466859e0f
     type: content
-  - name: Freight Services
-    id: 92b46b82-3968-40c5-a55b-879020e7d4a8
-    type: content
 collections:
   - index:
       path: /
